@@ -2,7 +2,10 @@
 
 - 🔭 I’m currently working on my startup [Step Security](https://www.stepsecurity.io), to thwart software supply chain attacks
     
-     I was a Principal Security Software Engineering Manager at Microsoft, and used to lead the [Green Team](https://azure.microsoft.com/en-us/blog/the-green-team-solves-high-risk-systemic-security-issues-for-azure/), to solve high-risk systemic security issues in Azure 
+     I was a Principal Security Software Engineering Manager at Microsoft, and used to lead the [Green Team](https://azure.microsoft.com/en-us/blog/the-green-team-solves-high-risk-systemic-security-issues-for-azure/), to solve high-risk systemic security issues in Azure.
+     
+     In 2006, I had won an All-India contest organized by Microsoft called the [Security Shootout Contest](https://www.ciol.com/microsoft-announces-winners-security-shootout-1/), in which 11,200 developers participated, and for which an SUV was the first prize! 
+     
 - 📫 How to reach me: https://www.linkedin.com/in/varunsharma07/
 
 
