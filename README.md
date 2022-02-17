@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my startup [Step Security](https://www.stepsecurity.io), to thwart software supply chain attacks
+- 🔭 I’m currently working on my startup [StepSecurity](https://www.stepsecurity.io), to thwart software supply chain attacks
     
      I was a Principal Security Software Engineering Manager at Microsoft, and used to lead the [Green Team](https://azure.microsoft.com/en-us/blog/the-green-team-solves-high-risk-systemic-security-issues-for-azure/), to solve high-risk systemic security issues in Azure.
      
